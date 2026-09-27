@@ -10,7 +10,8 @@ The goal of this repository is to make emerging agent-based geospatial systems e
 - [GIS and Agent Integration](#gis-and-agent-integration)
 - [Geospatial Research Agents](#geospatial-research-agents)
 - [Interactive GeoAI Applications](#interactive-geoai-applications)
-
+- [Agent Frameworks and Orchestration](#agent-frameworks-and-orchestration)
+  
 ---
 
 ## Conversational GeoAI
@@ -45,3 +46,12 @@ The goal of this repository is to make emerging agent-based geospatial systems e
 |---|---|---|---|---|
 | [High Seas Explorer](https://high-seas.nrp-nautilus.io/) | Interactive geospatial application for exploring high-seas spatial information and related environmental data. | Research project | Marine geospatial exploration | Open |
 | [Protected Lands Explorer](https://tpl.nrp-nautilus.io/) | Interactive application for exploring protected lands and related spatial information. | Research project | Conservation / protected lands | Open |
+
+---
+
+## Agent Frameworks and Orchestration
+
+| Resource | Description | Organization / Project | Focus | Access |
+|---|---|---|---|---|
+| [LangChain](https://docs.langchain.com/oss/python/langchain/overview) | Framework for building applications and AI agents powered by language models, tools, retrieval systems, and external data sources. | LangChain | AI agents / LLM applications | Open source |
+| [LangGraph](https://docs.langchain.com/oss/python/langgraph/overview) | Framework for building stateful, multi-step, and controllable agent workflows using graph-based orchestration. | LangChain | Agent orchestration / workflows | Open source |
