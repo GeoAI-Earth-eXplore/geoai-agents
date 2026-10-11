@@ -55,3 +55,5 @@ The goal of this repository is to make emerging agent-based geospatial systems e
 |---|---|---|---|---|
 | [LangChain](https://docs.langchain.com/oss/python/langchain/overview) | Framework for building applications and AI agents powered by language models, tools, retrieval systems, and external data sources. | LangChain | AI agents / LLM applications | Open source |
 | [LangGraph](https://docs.langchain.com/oss/python/langgraph/overview) | Framework for building stateful, multi-step, and controllable agent workflows using graph-based orchestration. | LangChain | Agent orchestration / workflows | Open source |
+| [Cloudflare Agents SDK](https://developers.cloudflare.com/agents/) | Framework and runtime for building and deploying stateful AI agents with persistent memory, real-time communication, tool integration, scheduling, and chat interfaces. | Cloudflare | AI agents / orchestration / chat applications | Open source / platform access |
+
