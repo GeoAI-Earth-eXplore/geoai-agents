@@ -28,6 +28,7 @@ The goal of this repository is to make emerging agent-based geospatial systems e
 | Resource | Description | Organization / Project | Focus | Access |
 |---|---|---|---|---|
 | [QGIS MCP Plugin](https://plugins.qgis.org/plugins/qgis_mcp_plugin/) | QGIS plugin enabling Model Context Protocol-based integration between AI systems and QGIS workflows. | Community project | QGIS / AI agent integration | Open source |
+| [AI Agent by TerraLab](https://plugins.qgis.org/plugins/AI_Agent/) | QGIS plugin where an AI agent carries out plain-English GIS tasks in the open project: finds open data, runs Processing tools, styles the map and builds layouts, with one-click undo. | TerraLab | QGIS / AI agent in the QGIS project | Open-source plugin (GPL-2.0-or-later), hosted AI service, free tier and paid plan |
 
 ---
 
