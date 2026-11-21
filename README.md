@@ -37,6 +37,7 @@ The goal of this repository is to make emerging agent-based geospatial systems e
 |---|---|---|---|---|
 | [GLEN](https://boettiger-lab.github.io/geo-agent/) | Geospatial AI agent developed for interacting with geospatial data and analytical workflows. | Boettiger Lab | GeoAI agent / spatial analysis | Open / research |
 | [Geo-Agent](https://github.com/boettiger-lab/geo-agent) | Open-source implementation and development repository associated with GLEN. | Boettiger Lab | Agentic geospatial analysis | Open source |
+| [Google Earth AI Geospatial Reasoning Agent](https://sites.research.google/gr/geospatial-reasoning/) | Experimental Gemini-powered geospatial agent that combines Earth data, foundation models, spatial tools, planning, feature engineering, and multi-step geospatial reasoning. | Google Research | Geospatial reasoning / Earth AI agent | Experimental / early access |
 
 ---
 
